@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, gameController!</string>
+    <string name="app_name">Com.games.battlepong</string>
+     <string name="Connect">Connect</string>
+      <string name="Listen">Listen</string>
+</resources>
